@@ -20,9 +20,10 @@ Ao longo deste ano, venho me aprofundando no universo de **dados**, com foco em 
 
 ### 📈 GitHub Stats
 
-![VictorChvaesz GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorChavesz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorChavesz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorChavesz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorChavesz&layout=compact&theme=radical" width="48%" />
+</div>
 
 ---
 
@@ -33,5 +34,5 @@ Ao longo deste ano, venho me aprofundando no universo de **dados**, com foco em 
 
 ---
 
-🧩 *"A curiosidade impulsiona o aprendizado, e o aprendizado constrói soluções."*
+🧩 *"Suas mãos não foram feitas para destruir, suas mãos foram feitas para criar."*
 
